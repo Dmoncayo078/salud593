@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nombre del Médico</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Nombre del Médico</h1>
+    <nav>
+      <ul>
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#acerca">Acerca de</a></li>
+        <li><a href="#servicios">Servicios</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="inicio">
+    <h2>Bienvenido a mi página web</h2>
+    <p>Descripción introductoria del médico y su especialidad.</p>
+  </section>
+
+  <section id="acerca">
+    <h2>Acerca de</h2>
+    <p>Información detallada sobre la experiencia y la formación del médico.</p>
+  </section>
+
+  <section id="servicios">
+    <h2>Servicios</h2>
+    <ul>
+      <li>Descripción del primer servicio ofrecido</li>
+      <li>Descripción del segundo servicio ofrecido</li>
+      <li>Descripción del tercer servicio ofrecido</li>
+    </ul>
+  </section>
+
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>Información de contacto del médico, como dirección, número de teléfono y correo electrónico.</p>
+  </section>
+
+  <footer>
+    <p>Derechos de autor &copy; 2023 Nombre del Médico</p>
+  </footer>
+</body>
+</html>
